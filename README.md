@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kham Laung from Myanmar.
+- 👋 Hi, I’m Kham Laung.
 - 👀 I’m interested in learning new things and go through some challanges.
 - 🌱 I’m currently working as a software engineer.
 - 💞️ I’m looking to collaborate on open source projects and work on something exciting.
